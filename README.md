@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @computerixed
+- 👋 Hi, I’m @JewelMax
 - 👀 I’m interested in problem solving using codes
 - 🌱 I’m currently a front end website developer and i am learning Java
 - 💞️ I’m looking to collaborate with any one who is looking forward to building a Full Stalk Team
